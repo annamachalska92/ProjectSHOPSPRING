@@ -1,0 +1,33 @@
+HARMONOGRAM
+
+KAMIEŃ Konfiguracja środowiska do programowania w Springu)
+- instalacja Javy
+- konfiguracja narzędzia do budowy Maven
+- instalacja lokalnego serwera WWW Tomcat
+- konfiguracja środowiska programistycznego Spring Tool Suite oraz jego konfiguracja
+
+KAMIEŃ 2 (Konfiguracja i architektura aplikacji internetowej (sklepu komputerowego))
+- serwlety przekazujące
+- mapowanie żądań
+- resolwery widoków
+- kontrolery (koncepcja model - widok - kontroler MVC)
+- tworzenie pierwszych widoków (strona wyświetlająca produkty z pseudobazy oraz szczegoły o danych produkcie)
+- wstępna nawigacja strony
+
+KAMIEŃ 3 (Operacje biznesowe, przetwarzanie formularzy)
+- Możliwość dodawania nowych produktów przez formularz na stronie
+- wymaganie logowania do pseudo panelu administracyjnego, konfiguracja filtra Spring Security
+- obsługa wyjątków w formularzach
+
+KAMIEŃ 4 (Operacje AJAX, REST)
+- Stworzenie koszyka, dodawanie produktów do koszyka (elementy Angulara)
+- Operacja zakupu z pobieraniem danych, wyświetlaniem rachunku (Spring Web Flow)
+- Kolejne elementy nawigacyjne
+- Tworzenie szablonu, widoków dla każdego stanu widoku, wspólna szata graficzna (Apache Tiles)
+
+KAMIEŃ 5 (operacje uzupełniające)
+
+- dodawanie internacjonalizacji 
+- wyszukiwanie produktów pod kategoriach
+- rejestracja użytkowników, zakłądanie kont
+- testowanie aplikacji
