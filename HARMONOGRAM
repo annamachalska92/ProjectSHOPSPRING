@@ -25,9 +25,11 @@ KAMIEŃ 4 (Operacje AJAX, REST)
 - Kolejne elementy nawigacyjne
 - Tworzenie szablonu, widoków dla każdego stanu widoku, wspólna szata graficzna (Apache Tiles)
 
+
 KAMIEŃ 5 (operacje uzupełniające)
 
 - dodawanie internacjonalizacji 
 - wyszukiwanie produktów pod kategoriach
 - rejestracja użytkowników, zakłądanie kont
 - testowanie aplikacji
+- umieszczenie strony na serwerze, stworzenie realnej bazy danych na podstawie pseudobazy stworzonej wcześniej
